@@ -24,7 +24,7 @@ bot.on('message', message => {
 });
 
 
-if(cmd === `${prefix}kick`){
+if(command === `${prefix}kick`){
 
     //!kick @daeshan askin for it
 
