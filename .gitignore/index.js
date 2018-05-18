@@ -17,7 +17,7 @@ bot.on('message', message => {
     }
 
     if (message.content === "!infos") {
-    message.reply("**Créateur:** Arès \n**Discord:** https://discord.gg/g4CBXm"), 'message.receveid', function(bot,message) {
+    message.reply("**Créateur:** Arès \n**Discord:** https://discord.gg/g4CBXm")
     console.log("Commande !infos effectué");
     }
 
